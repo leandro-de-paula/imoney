@@ -15,7 +15,7 @@ O iMoney é uma webpage de uma plataforma fictícia para controle de finanças p
 Nesta WebPage você encontra uma única página de para apresentação do conceito:
     index.html
 
-The iMoney is a fully responsive webpage template. Based on **[Bootstrap 4.4](https://getbootstrap.com/)** framework and also the JS/jQuery plugin.
+The iMoney is a fully responsive webpage template. Based on **[Bootstrap 4](https://getbootstrap.com/)** framework and also the JS/jQuery plugin.
 Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops.
 
 !["iMoney Presentation"](https://github.com/leandro-de-paula/imoney/blob/master/img/iMoney.png "iMoney Presentation")
