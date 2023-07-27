@@ -38,3 +38,7 @@ _**Important Note**: To install it via Git, you need at least git version 2.25.1
 
     ```bash
     git clone https://github.com/leandro-de-paula/imoney.git
+    ```
+
+    #### Site is live at [https://leandro-de-paula.github.io/imoney/](https://leandro-de-paula.github.io/imoney/)
+
